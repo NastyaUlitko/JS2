@@ -1,0 +1,18 @@
+{
+  "amount": 46600,
+  "countGoods": 2,
+  "contents": [
+    {
+      "id_product": 1,
+      "product_name": "Coat",
+      "price": 550,
+      "quantity": 1
+    },
+    {
+      "id_product": 2,
+      "product_name": "Shoes",
+      "price": 250,
+      "quantity": 1
+    }
+  ]
+}
