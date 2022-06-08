@@ -2,7 +2,8 @@
   {
     "id_product": 1,
     "product_name": "Coat",
-    "price": 550
+    "price": 550,
+    "img":src="img/card1.png"
   },
   {
     "id_product": 2,
